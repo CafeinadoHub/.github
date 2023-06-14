@@ -10,10 +10,10 @@ At CafeinadoHub, we combine our passion for coding and design to deliver high-qu
 
 We offer a range of services, including:
 
-- Custom website development
+- Custom web apps development
 - Front-end and back-end web development
 - Responsive web design
-- Website optimization and performance enhancements
+- Web application optimization and performance enhancements
 - E-commerce solutions
 - Content management system (CMS) integration
 - Database Integration
@@ -23,11 +23,11 @@ We offer a range of services, including:
 
 Our team is skilled in various technologies and frameworks, including:
 
-- HTML5, CSS3, JavaScript
+- Python, C#, PHP, JavaScript
 - Vue.js 3
-- Python, C#, PHP,
+- HTML5, CSS3
 - ASP.NET, Laravel, Django
-- MySQL, Redis,
+- MySQL, Redis
 - Bootstrap, Tailwind
 - Git, GitHub
 
