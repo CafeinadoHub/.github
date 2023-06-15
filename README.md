@@ -17,7 +17,7 @@ We offer a range of services, including:
 - E-commerce solutions
 - Content management system (CMS) integration
 - Database Integration
-- Ongoing website maintenance and support
+- Ongoing web application maintenance and support
 
 ## Technologies
 
