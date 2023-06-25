@@ -39,9 +39,9 @@ We believe in the power of collaboration and teamwork. By working together, we l
 
 If you have any questions or would like to discuss a potential project, you can contact us at:
 
-- Email: [cafeinadoparty@gmail.com](mailto:cafeinadoparty@gmail.com)
+- Email: [contact@cafeinado.dev](mailto:contact@cafeinado.dev)
 - Website: [www.cafeinado.dev](https://www.cafeinado.dev)
-- LinkedIn: [CafeinadoHub](https://www.linkedin.com/company/cafeinadohub)
+<!-- - LinkedIn: [CafeinadoHub](https://www.linkedin.com/company/cafeinadohub) -->
 
 We look forward to hearing from you!
 
